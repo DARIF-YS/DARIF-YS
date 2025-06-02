@@ -29,8 +29,8 @@
   <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/jqycac4nitgaoauawrxg" height="40" alt="looker studio logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" height="40" alt="Flask logo" />
-  <img width="15" />
-  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nqx_sCd8ZIeIcodS0sfeMKJ8rVTslmQHUe_udwGNH2Pg=s900-c-k-c0x00ffffff-no-rj" height="60" alt="Flutter logo" />
+  <img width="18" />
+  <img src="https://yt3.googleusercontent.com/ytc/AIdro_nqx_sCd8ZIeIcodS0sfeMKJ8rVTslmQHUe_udwGNH2Pg=s900-c-k-c0x00ffffff-no-rj" height="45" alt="Flutter logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
   <img width="12" />
