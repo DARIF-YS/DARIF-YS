@@ -1,20 +1,11 @@
-<h1 align="center">Yassine Darif</h1>
-<p align="center">
-Master's student in Information Systems and Intelligent Systems at INSEA, Rabat, Morocco 🇲🇦<br>
-Specialized in NLP, Machine Learning & Generative AI
-</p>
-
----
-
-<h2>🎯 About Me</h2>
+<h1>Yassine Darif</h1>
 <p>
-I am passionate about leveraging data to solve real-world problems and deliver actionable insights. 
-My focus is on NLP, Machine Learning, and Generative AI, where I enjoy building pipelines, analyzing data, and creating impactful solutions.
+Master's student in Information Systems and Intelligent Systems at INSEA, Rabat, Morocco 🇲🇦<br>
+Specialized in NLP, Machine Learning, and Generative AI<br>
+Passionate about leveraging data to solve real-world problems and drive informed decisions
 </p>
 
----
-
-<h2>📫 Contact</h2>
+<h2>Contact</h2>
 <p>
 <a href="https://www.linkedin.com/in/darif-yassine">LinkedIn</a> • 
 <a href="mailto:ydarif@insea.ac.ma">Email</a> • 
