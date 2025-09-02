@@ -1,7 +1,12 @@
 <h1>Yassine Darif</h1>
 <p>
-Master's student at INSEA, Rabat, Morocco 🇲🇦 | NLP, Machine Learning & Generative AI<br>
-Passionate about turning data into insights and solving real-world problems<br>
+Master's student in Information Systems and Intelligent Systems at INSEA, Rabat, Morocco 🇲🇦<br>
+Specialized in NLP, Machine Learning, and Generative AI<br>
+Passionate about using data to solve problems and create actionable insights
+</p>
+
+<h2>Contact</h2>
+<p>
 <a href="https://www.linkedin.com/in/darif-yassine">LinkedIn</a> • 
 <a href="mailto:ydarif@insea.ac.ma">Email</a> • 
 <a href="https://github.com/DARIF-YS">GitHub</a>
