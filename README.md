@@ -4,8 +4,6 @@
 🎓 Master in Information Systems & Intelligent Systems  
 💡 Fun fact: I love coding and building data-driven solutions  
 
----
-
 ### ⚡ Technologies
 
 <p>
@@ -17,5 +15,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   <img src="https://img.shields.io/badge/Looker%20Studio-00A2FF?style=for-the-badge&logo=google&logoColor=white" alt="Looker Studio" />
 </p>
-
----
