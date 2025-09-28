@@ -1,10 +1,10 @@
 # 👋 Hi, I’m DARIF Yassine
 
 **Data Scientist | ML & NLP Enthusiast**  
-- Master in Information Systems & Intelligent Systems - INSEA, Rabat  
-- Fun fact: I love coding and building data-driven solutions  
+Master in Information Systems & Intelligent Systems - INSEA, Rabat  
+Fun fact: I love coding and building data-driven solutions  
 
-### Technologies
+### Technologies I Work With
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
