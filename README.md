@@ -13,5 +13,5 @@
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" /> 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
-  <img src="" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/Looker-00BFA5?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
 </p>
