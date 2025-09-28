@@ -1,7 +1,7 @@
 # 👋 Hi, I’m DARIF Yassine
 
 **Data Scientist | ML & NLP Enthusiast**  
-🎓 Master in Information Systems & Intelligent Systems - INSEA, Rabat
+🎓 Master in Information Systems & Intelligent Systems - INSEA, Rabat  
 💡 Fun fact: I love coding and building data-driven solutions  
 
 ### Technologies
@@ -15,4 +15,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Looker Studio" />
 </p>
-
