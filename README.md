@@ -13,4 +13,5 @@ Fun fact: I love coding and building data-driven solutions
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" /> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> 
   <img src="https://img.shields.io/badge/Looker Studio-00BFA5?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
