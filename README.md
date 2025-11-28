@@ -1,6 +1,6 @@
 # 👋 Hi, I’m DARIF Yassine
 
-**Data Scientist**  
+**Data Scientist | AI Engineer**  
 2nd year Master’s student in Data Science - INSEA, Rabat  
 Fun fact: I love coding and building data-driven solutions  
 
